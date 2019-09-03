@@ -15,7 +15,7 @@
 ### Run
 
 ```bash
-python main.py entry="www.qz.gov.cn" outfile="output.xlsx"
+python main.py -entry www.qz.gov.cn -outfile output.xlsx
 ```
 
 ### Details
