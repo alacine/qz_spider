@@ -1,0 +1,4 @@
+*.pyc
+GovSpider_tmp_data/
+*.csv
+*.xlsx
